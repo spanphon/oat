@@ -4,6 +4,7 @@ title: "Introducción a la fonética del español"
 author: "Joseph V. Casillas"
 date: "2022-01-12"
 site: bookdown::bookdown_site
+output: bookdown::bs4_book
 documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike

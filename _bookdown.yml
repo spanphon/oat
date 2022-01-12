@@ -4,7 +4,7 @@ new_session: yes
 output_dir: "docs"
 language:
   ui:
-    toc_name: "Contenido"
+    toc: "Contenido"
     chapter_name: "Capítulo "
     appendix_name: "Apéndice "
   label:

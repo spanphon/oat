@@ -27,8 +27,7 @@ University students.
 As a student in this course, you will be asked to provide feedback on this 
 initiative at the end of the semester.
 
-
-\begin{center}\includegraphics[width=0.33\linewidth]{/Users/casillas/academia/teaching/rutgers/spanphon/oat/assets/images/oat_logo} \end{center}
+<img src="/Users/casillas/academia/teaching/rutgers/spanphon/oat/assets/images/oat_logo.png" width="33%" style="display: block; margin: auto;" />
 
 ## Cómo leer este libro {.unnumbered}
 
@@ -43,49 +42,30 @@ al lector que algo acerca del texto que sigue a continuación.
 A saber...
 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.2\linewidth]{/Users/casillas/academia/teaching/rutgers/spanphon/oat/assets/images/bomb} \includegraphics[width=0.2\linewidth]{/Users/casillas/academia/teaching/rutgers/spanphon/oat/assets/images/ojo} \includegraphics[width=0.2\linewidth]{/Users/casillas/academia/teaching/rutgers/spanphon/oat/assets/images/exercise} \includegraphics[width=0.2\linewidth]{/Users/casillas/academia/teaching/rutgers/spanphon/oat/assets/images/teach} 
-
-}
-
-\caption{test caption}(\#fig:bloques)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="/Users/casillas/academia/teaching/rutgers/spanphon/oat/assets/images/bomb.png" alt="test caption" width="20%" /><img src="/Users/casillas/academia/teaching/rutgers/spanphon/oat/assets/images/ojo.png" alt="test caption" width="20%" /><img src="/Users/casillas/academia/teaching/rutgers/spanphon/oat/assets/images/exercise.png" alt="test caption" width="20%" /><img src="/Users/casillas/academia/teaching/rutgers/spanphon/oat/assets/images/teach.png" alt="test caption" width="20%" />
+<p class="caption">(\#fig:bloques)test caption</p>
+</div>
 
 
 
 
-\begin{rmdojo}
-Un bloque de texto así, que contiene un punto de exclamación al lado,
-implica que aquí va información importante que debe leerse. Como regla
-general es mejor no prescindir de estas secciones porque cuentan con
-información que vas a querer saber.
-\end{rmdojo}
+<div class="rmdojo">
+<p>Un bloque de texto así, que contiene un punto de exclamación al lado, implica que aquí va información importante que debe leerse. Como regla general es mejor no prescindir de estas secciones porque cuentan con información que vas a querer saber.</p>
+</div>
 
-\begin{rmdbomb}
-Al ver un bloque de texto que contiene una bomba al lado, el lector ha
-de suponer que el contenido de esta sección es difícil y puede resultar
-confuso para muchos estudiantes. El tipo de información que suele
-aparecer en estos bloques sirve para generar fantásticas preguntas para
-los exámenes.
-\end{rmdbomb}
+<div class="rmdbomb">
+<p>Al ver un bloque de texto que contiene una bomba al lado, el lector ha de suponer que el contenido de esta sección es difícil y puede resultar confuso para muchos estudiantes. El tipo de información que suele aparecer en estos bloques sirve para generar fantásticas preguntas para los exámenes.</p>
+</div>
 
-\begin{rmdexercise}
-Al ver un bloque de texto que contiene una bomba al lado, el lector ha
-de suponer que el contenido de esta sección es difícil y puede resultar
-confuso para muchos estudiantes. El tipo de información que suele
-aparecer en estos bloques sirve para generar fantásticas preguntas para
-los exámenes.
-\end{rmdexercise}
+<div class="rmdexercise">
+<p>Al ver un bloque de texto que contiene una bomba al lado, el lector ha de suponer que el contenido de esta sección es difícil y puede resultar confuso para muchos estudiantes. El tipo de información que suele aparecer en estos bloques sirve para generar fantásticas preguntas para los exámenes.</p>
+</div>
 
 
-\begin{rmdteach}
-Al ver un bloque de texto que contiene una bomba al lado, el lector ha
-de suponer que el contenido de esta sección es difícil y puede resultar
-confuso para muchos estudiantes. El tipo de información que suele
-aparecer en estos bloques sirve para generar fantásticas preguntas para
-los exámenes.
-\end{rmdteach}
+<div class="rmdteach">
+<p>Al ver un bloque de texto que contiene una bomba al lado, el lector ha de suponer que el contenido de esta sección es difícil y puede resultar confuso para muchos estudiantes. El tipo de información que suele aparecer en estos bloques sirve para generar fantásticas preguntas para los exámenes.</p>
+</div>
 
 
 @xie2015

@@ -18,15 +18,15 @@ language:
     solution: "Solución "
 rmd_files: [
   "index.Rmd",
-  "02-what-is-linguistics.Rmd", 
-  "03-the-syllable-and-friends.Rmd", 
-  "04-acoustics-software-hardware.Rmd", 
-  "05-articulatory-phonetics.Rmd", 
-  "06-obstruents.Rmd", 
-  "07-nasals-laterals.Rmd", 
-  "08-rhotics.Rmd", 
-  "09-dialectal-variation.Rmd", 
-  "10-references.Rmd",
+  "what-is-linguistics.Rmd", 
+  "the-syllable-and-friends.Rmd", 
+  "acoustics-software-hardware.Rmd", 
+  "articulatory-phonetics.Rmd", 
+  "obstruents.Rmd", 
+  "nasals-laterals.Rmd", 
+  "rhotics.Rmd", 
+  "dialectal-variation.Rmd", 
+  "references.Rmd",
 ]
 
 before_chapter_script: "_common.R"

@@ -1,7 +1,7 @@
 book_filename: "spanish_phonetics"
 delete_merged_file: true
 new_session: yes
-output_dir: "_book"
+output_dir: "docs"
 language:
   ui:
     toc_name: "Contenido"
@@ -28,3 +28,5 @@ rmd_files: [
   "09-dialectal-variation.Rmd", 
   "10-references.Rmd",
 ]
+
+before_chapter_script: "_common.R"

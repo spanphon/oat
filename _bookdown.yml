@@ -1,0 +1,30 @@
+book_filename: "spanish_phonetics"
+delete_merged_file: true
+new_session: yes
+output_dir: "_book"
+language:
+  ui:
+    toc_name: "Contenido"
+    chapter_name: "Capítulo "
+    appendix_name: "Apéndice "
+  label:
+    fig: "Gráfico "
+    tab: "Tabla "
+    eq: "Ecuación "
+    thm: "Teorema "
+    def: "Definición "
+    exm: "Ejemplo "
+    exr: "Ejercicio "
+    solution: "Solución "
+rmd_files: [
+  "index.Rmd",
+  "02-what-is-linguistics.Rmd", 
+  "03-the-syllable-and-friends.Rmd", 
+  "04-acoustics-software-hardware.Rmd", 
+  "05-articulatory-phonetics.Rmd", 
+  "06-obstruents.Rmd", 
+  "07-nasals-laterals.Rmd", 
+  "08-rhotics.Rmd", 
+  "09-dialectal-variation.Rmd", 
+  "10-references.Rmd",
+]

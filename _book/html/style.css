@@ -1,0 +1,82 @@
+p.caption {
+  color: #777;
+  margin-top: 10px;
+}
+
+p code {
+  white-space: inherit;
+}
+
+pre {
+  word-break: normal;
+  word-wrap: normal;
+}
+
+pre code {
+  white-space: inherit;
+}
+
+div.rmdojo {
+  background-image: url('../images/ojo.png');
+  background-position: 2% 50%;
+  background-size: 55px;
+  background-repeat: no-repeat;
+  padding-left: 80px;
+  padding-right: 30px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  background-color: #f0f0f0;
+}
+
+div.rmdbomb {
+  background-image: url('../images/bomb.png');
+  background-position: 2% 50%;
+  background-size: 55px;
+  background-repeat: no-repeat;
+  padding-left: 80px;
+  padding-right: 30px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  background-color: #f0f0f0;
+}
+
+div.rmdexercise {
+  background-image: url('../images/exercise.png');
+  background-position: 50% 8%;
+  background-size: 150px;
+  background-repeat: no-repeat;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 100px;
+  padding-bottom: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  background-color: #f0f0f0;
+}
+
+div.rmdteach {
+  background-image: url('../images/teach.png');
+  background-position: 2% 50%;
+  background-size: 55px;
+  background-repeat: no-repeat;
+  padding-left: 80px;
+  padding-right: 30px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  background-color: #f0f0f0;
+}
+
+
+
+
+

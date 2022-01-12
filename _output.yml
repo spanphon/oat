@@ -1,0 +1,29 @@
+bookdown::bs4_book:
+  theme:
+    primary: "#cc0033"
+  repo: https://github.com/spanphon/oat
+  includes:
+    in_header: [assets/html/ga_script.html]
+
+bookdown::gitbook:
+  css: assets/html/style.css
+  includes:
+    in_header: [assets/html/ga_script.html]
+  config:
+    toc:
+      collapse: section
+      before: |
+        <li><a href="./">Introducción a la fonética del español</a></li>
+    edit:
+      link: https://github.com/spanphon/oat/edit/master/%s
+      text: "Edit"
+    sharing: no
+
+bookdown::pdf_book:
+  includes:
+    in_header: assets/latex/preamble.tex
+    before_body: assets/latex/before_body.tex
+    after_body: assets/latex/after_body.tex
+  latex_engine: xelatex
+  citation_package: natbib
+  keep_tex: yes
